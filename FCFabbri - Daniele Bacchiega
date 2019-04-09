@@ -1,0 +1,14 @@
+
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Daniele Bacchiega;;;
+EMAIL;type=INTERNET;type=WORK;type=pref:daniele@fabbrigroup.com
+TEL;type=WORK;type=VOICE:0425 804020
+TEL;type=WORK;type=FAX:0425 804028
+TEL;type=PHONE;type=VOICE:335 7180620
+item1.ADR;type=WORK;type=pref:;;Via Dell'Artigianato, 243\n45030 Calto (RO)
+item1.X-ABADR:sg
+item2.URL;type=pref:http://fabbrigroup.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
